@@ -25,6 +25,6 @@ button {
 
 .gallery {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     list-style: none;
 }
